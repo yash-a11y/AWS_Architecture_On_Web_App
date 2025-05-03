@@ -1,8 +1,3 @@
-# Prerequisites
-#
-- JDK 11 
-- Maven 3 
-- MySQL 8
 
 # Technologies 
 - Spring MVC
@@ -16,9 +11,13 @@
 - Rabbitmq
 - ElasticSearch
 # Database
+<<<<<<< HEAD
 Mysql DB 
 
 
+=======
+Here,we used Mysql DB 
+>>>>>>> 23f78d5d1ed5e12f8a5939a8abae8952f0409fb6
 
 
 
